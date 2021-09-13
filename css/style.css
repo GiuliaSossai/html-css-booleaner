@@ -30,7 +30,7 @@
   margin-top: 20px;
 }
 
-.title, p, .list{
+.title, p, .list, .monitor {
   margin-bottom: 20px;
 }
 
@@ -55,14 +55,38 @@ mark {
   color: black;
 }
 
-.list {
-  margin-bottom: 20px;
+table {
+  border-collapse: collapse;
 }
 
 #top-table {
   background-color: #1FA9E5;
 }
 
+#row-exp {
+  width: 50%;
+}
+
+.white-text {
+  color: white;
+}
+
 .blue-line {
   background-color: #B2E4F2;
 }
+
+.image {
+  width: 200px;
+  height: 160px;
+  background-size: contain;
+}
+
+.monitor {
+  background-image: url("../img/monitor.jpg");
+}
+
+.graph {
+  background-image: url("../img/graph.jpg");
+}
+
+
