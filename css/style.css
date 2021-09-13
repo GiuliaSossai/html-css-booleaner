@@ -58,3 +58,11 @@ mark {
 .list {
   margin-bottom: 20px;
 }
+
+#top-table {
+  background-color: #1FA9E5;
+}
+
+.blue-line {
+  background-color: #B2E4F2;
+}
