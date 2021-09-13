@@ -1,3 +1,30 @@
 body {
-  background-color: red;
+  margin: 0;
+}
+
+.container {
+  margin-left: 5px;
+}
+
+.header {
+  height: 150px;
+  background-image: url("../img/pattern.png");
+  background-color: #4EA0FF;
+  position: relative;
+  
+}
+
+.logo {
+  width: 200px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+h1 {
+  font-size: 35px;
+}
+
+.credits {
+  font-size: 10px;;
 }
